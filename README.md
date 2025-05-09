@@ -1,2 +1,2 @@
 # Manual-Testing
-This repository consists of the projects I worked on, related to Manual Testing
+This repository contains the projects completed as part of my manual testing learning journey. 
