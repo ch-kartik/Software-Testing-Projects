@@ -1,4 +1,4 @@
-# Manual-Testing
+# Software Testing Projects (Manual Testing)
 This repository contains the projects completed as part of my manual testing learning journey. 
 
 # Project List
