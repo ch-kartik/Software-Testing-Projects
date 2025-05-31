@@ -1,18 +1,10 @@
 # Software Testing Projects (Manual Testing)
-This repository contains the projects completed as part of my manual testing learning journey. 
+This repository contains the Software Testing projects that I have done with Test Plan, Test Cases. 
 
-# Project List
+## Project 1 - app.vwo.com
+Objective: To test the login page of app.vwo.com, Login and Dashboard and generatethe Test Plan and Test Cases.
 
-| Project Name | Description | Tools Used |
-|--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | JIRA,Zephyr |
 
-### Project 1
-- Test Plan
-- Test Cases
-- Bug Report
-- RTM
-- Test Reports
-- Test Metrics
+
 
   
